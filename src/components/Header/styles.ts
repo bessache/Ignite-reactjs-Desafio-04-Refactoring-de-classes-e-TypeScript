@@ -24,11 +24,9 @@ export const Container = styled.div`
           display: flex;
           flex-direction: row;
           align-items: center;
-
           .text {
             padding: 16px 24px;
           }
-
           .icon {
             display: flex;
             padding: 16px 16px;
